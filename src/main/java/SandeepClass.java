@@ -5,6 +5,7 @@ public class SandeepClass {
 
         System.out.println("Sandeep change2");
         System.out.println("Sandeep change3");
+        System.out.println("master change2");
 
     }
 }
