@@ -3,5 +3,8 @@ public class SandeepClass {
         System.out.println("Sandeep change");
         System.out.println("master change");
 
+        System.out.println("Sandeep change2");
+        System.out.println("Sandeep change3");
+
     }
 }
